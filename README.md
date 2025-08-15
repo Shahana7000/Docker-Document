@@ -144,5 +144,5 @@ A complete reference of commonly used Docker commands, organized by category wit
 
 ---
 
-**Author:** _Your Name_  
-**Repository:** `docker-container-command`
+**Author:** Shahana Parveen  
+**Repository:** `Docker-Document`
